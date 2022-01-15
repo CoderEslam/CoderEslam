@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderEslam
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning ...Java & Kotlin
+- 👀 I’m interested in Android & web
+- 🌱 I’m currently learning ...Java , Kotlin , php , javascript, node js , react native ,SQL, MYSQL and SQLite
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...+201221930858
 
