@@ -8,3 +8,6 @@
 CoderEslam/CoderEslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<a href="https://app.daily.dev/EslamGhazy"><img src="https://api.daily.dev/devcards/e30938d908c0439cab4a9191f83029e3.png?r=cng" width="400" alt="Eslam Ghazy's Dev Card"/></a>
