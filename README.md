@@ -10,12 +10,35 @@
 ---
 
 ### 🚀 About Me
-- 5+ years building **Android apps** (Kotlin/Java) and **iOS apps** (Swift).  
-- Backend development with **Spring Boot**, **Ktor**, and databases like PostgreSQL/MySQL.  
+- 6+ years building **Android apps** (Kotlin/Java) and 2+ years building **iOS apps** (SwiftUI).  
+- Backend development with **Spring Boot**, **Ktor**, and databases like PostgreSQL/MySQL/SQLDelight.  
 - Passionate about **Kotlin Multiplatform** and **Jetpack Compose** for modern UIs.  
-- Led projects like TikTok/Uber clones with 50k+ downloads [[CV]].  
+- Led projects like HennaApp/Rovle clones with 50k+ downloads [[CV]].  
 
 ---
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
+  <img width="12" />
+</div>
+
+###
 
 ### 🔧 Tech Stack
 | Mobile Development       | Backend Development      | Tools & Platforms         |
@@ -27,20 +50,23 @@
 ---
 
 ### 📱 Recent Projects
-1. **TikTok Clone**  
-   - Built with **Kotlin**, **Jetpack Compose**, and **Spring Boot** for backend.  
-   - Integrated video streaming via ExoPlayer and AWS S3.  
-   - [GitHub Repo](https://github.com/CoderEslam/tiktok-clone) | [Live Demo](https://play.google.com/store/apps/details...)  
+1. **Henna App**  
+   - Built with **Kotlin**, **Jetpack Compose**, and **Laravel** for backend.  
+   - [GitHub Repo](https://github.com/CoderEslam/Henna) | [Live Demo](https://play.google.com/store/apps/details?id=com.chaaraapp.henna)  
 
-2. **Uber Clone**  
+2. **Rovle**
+   - Built with **Kotlin**, **Jetpack Compose**, and **Laravel** for backend.  
+   - [GitHub Repo](https://github.com/CoderEslam/RovleAppAndroid) | [Live Demo](https://play.google.com/store/apps/details?id=com.rovle.rovleuser)
+  
+3. **Uber Clone**  
    - Developed using **Kotlin Multiplatform** and **Ktor** for cross-platform efficiency.  
    - Real-time tracking with Firebase and Google Maps API.  
-   - [GitHub Repo](https://github.com/CoderEslam/uber-clone)  
+   - [GitHub Repo](https://github.com/CoderEslam/MotoaxiIOS)  
 
-3. **E-commerce Backend**  
-   - Designed RESTful APIs with **Spring Boot** and PostgreSQL.  
-   - Reduced API latency by 40% through query optimization.  
-
+4. **E-commerce Backend**  
+   - Developed using **Kotlin** , **Java** , **Firebase** as backend and **Room Database** as local database.
+   - Real-time chatting send **(TEXT,IMAGE,VEDIO,LOCATION,CONTACT)**
+   - [GitHub Repo](https://github.com/CoderEslam/MarktInHomeV3)  
 ---
 
 ### 📈 GitHub Stats
@@ -57,8 +83,7 @@
 ---
 
 ### Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-ghazy-7912bb183/)  
 
 ---
 
