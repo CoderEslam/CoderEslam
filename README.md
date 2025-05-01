@@ -77,8 +77,8 @@
 ---
 
 ### 📚 Certifications
-- **Android Developer Track** | Rwaq.org (2018)  
-- **Full Stack Developer Track** | Rwaq.org (2019)  
+- **Android Developer Track** | Udacity (2018)  
+- **Full Stack Developer Track** | Udacity (2019)  
 
 ---
 
