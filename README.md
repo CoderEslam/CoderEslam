@@ -13,7 +13,7 @@
 - 6+ years building **Android apps** (Kotlin/Java) and 2+ years building **iOS apps** (SwiftUI).  
 - Backend development with **Spring Boot**, **Ktor**, and databases like PostgreSQL/MySQL/SQLDelight.  
 - Passionate about **Kotlin Multiplatform** and **Jetpack Compose** for modern UIs.  
-- Led projects like HennaApp/Rovle clones with 50k+ downloads [[CV]].  
+- Led projects like HennaApp/Rovle with 50k+ downloads [[CV](https://github.com/CoderEslam/CoderEslam/blob/main/White%20and%20Black%20%20Modern%20New%20Graduate%20Professional%20Resume.pdf)].  
 
 ---
 
