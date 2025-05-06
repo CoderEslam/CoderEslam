@@ -5,7 +5,7 @@
 ![Profile Picture](https://avatars.githubusercontent.com/u/46050044?v=4)
 
 **Senior Android Developer | Full-Stack Mobile Engineer**  
-📍 Alexandria, Egypt | 📞 [LinkedIn](https://www.linkedin.com/in/eslam-ghazy-7912bb183/) | 📧 eslamghazy600@gmail.com | +201221930858 
+📍 Alexandria, Egypt | 📞 [LinkedIn](https://www.linkedin.com/in/eslam-ghazy-7912bb183/) | 📧 eslamghazy600@gmail.com | +201221930858 | [portfolio](https://portfolio-eslam.vercel.app/)
 
 ---
 
