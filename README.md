@@ -15,6 +15,8 @@
 - Passionate about **Kotlin Multiplatform** and **Jetpack Compose** for modern UIs.  
 - Led projects like HennaApp/Rovle with 50k+ downloads [[CV](https://github.com/CoderEslam/CoderEslam/blob/main/White%20and%20Black%20%20Modern%20New%20Graduate%20Professional%20Resume.pdf)].  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderEslam&label=Profile%20views&color=0e75b6&style=flat" alt="Coder Eslam" /> </p>
+
 ---
 
 ###
@@ -73,6 +75,16 @@
 <!-- Add badges from https://github.com/anuraghazra/github-readme-stats -->
 ![Eslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderEslam&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderEslam&layout=compact&theme=radical)
+<div align="center">
+<a href="https://github.com/CoderEslam">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoderEslam&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoderEslam&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoderEslam&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoderEslam&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderEslam&theme=2077" height="180em" />
+</div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CoderEslam" alt="CoderEslam" /></a> </p>
 
 ---
 
